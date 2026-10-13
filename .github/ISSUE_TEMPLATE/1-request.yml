@@ -1,0 +1,29 @@
+name: Request or feedback
+description: Ask for a feature, suggest a change, or tell us how Yotsumeuo works for you.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for writing. What you post here is public and stays public.
+        Please leave out personal information, file paths, and models or screenshots you are not free to share.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback / request
+      description: What would you like, and what are you trying to do when you need it?
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Yotsumeuo and Rhino versions
+      description: Optional. As far as you know them, for example "Rhino 8.36".
+    validations:
+      required: false

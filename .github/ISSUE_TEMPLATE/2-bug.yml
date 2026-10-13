@@ -1,0 +1,46 @@
+name: Bug report (when you can't report from Rhino)
+description: Bugs are best reported from the Feedback window inside Rhino. Use this form only if you can't open it.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **If Rhino and Grasshopper open, please report from there instead.** In the Grasshopper menu bar, open Yotsumeuo and choose Feedback / report a bug… That window adds the version details we need, and shows you the whole report before you send it.
+
+        Use this form if Yotsumeuo won't install, Rhino or Grasshopper won't start, or the Yotsumeuo menu doesn't appear.
+
+        What you post here is public and stays public. Please leave out personal information, file paths, and models or screenshots you are not free to share.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1. 
+    validations:
+      required: false
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: As far as you know them. Windows version is under Settings → System → About; display scaling is under Settings → System → Display → Scale.
+      value: |
+        Yotsumeuo: 
+        Rhino: 
+        Windows: 
+        Display scaling: 
+    validations:
+      required: false
