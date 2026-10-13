@@ -10,13 +10,13 @@ Yotsumeuo is not released yet. This page is being prepared ahead of the first re
 | --- | --- |
 | Ask for a feature, suggest a change, or share an impression | [Open an issue](https://github.com/Motoharu-Kataoka/yotsumeuo-feedback/issues/new/choose) here. Everything in this repository is public. |
 | Report a bug | Send it from inside Rhino: in the Grasshopper menu bar, open **Yotsumeuo** and choose **Feedback / report a bug…** |
-| Send something privately, or without a GitHub account | A contact address will be listed here at release. |
+| Send something privately, or without a GitHub account | Email kataokamotoharu@gmail.com. Your message stays private. |
 
 ### Why bug reports go through Rhino
 
 The Feedback window adds the details we need to look into a problem, such as your Yotsumeuo, Rhino, and Windows versions. You see the whole report before anything is sent, and you decide whether to send it. Reporting from Rhino usually saves a round of follow-up questions.
 
-If you can't open Rhino or Grasshopper, or the Yotsumeuo menu doesn't appear, open a bug issue here instead.
+If you can't open Rhino or Grasshopper, or the Yotsumeuo menu doesn't appear, email us or open a bug issue here instead.
 
 ### Before you post here
 

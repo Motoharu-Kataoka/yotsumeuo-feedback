@@ -1,2 +1,2 @@
-# Blank issues stay enabled: the Feedback window in Rhino opens a pre-filled blank issue.
+# Blank issues stay enabled on purpose: an issue can also be opened from a link with a prefilled title and body.
 blank_issues_enabled: true

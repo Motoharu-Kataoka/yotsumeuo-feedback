@@ -6,6 +6,7 @@ body:
       value: |
         Thank you for writing. What you post here is public and stays public.
         Please leave out personal information, file paths, and models or screenshots you are not free to share.
+        To write privately instead, email kataokamotoharu@gmail.com.
   - type: textarea
     id: summary
     attributes:
@@ -24,6 +25,6 @@ body:
     id: versions
     attributes:
       label: Yotsumeuo and Rhino versions
-      description: Optional. As far as you know them, for example "Rhino 8.36".
+      description: Optional. As far as you know them, for example "Rhino 8".
     validations:
       required: false

@@ -9,7 +9,7 @@ body:
 
         Use this form if Yotsumeuo won't install, Rhino or Grasshopper won't start, or the Yotsumeuo menu doesn't appear.
 
-        What you post here is public and stays public. Please leave out personal information, file paths, and models or screenshots you are not free to share.
+        What you post here is public and stays public. Please leave out personal information, file paths, and models or screenshots you are not free to share. To write privately instead, email kataokamotoharu@gmail.com.
   - type: textarea
     id: summary
     attributes:
